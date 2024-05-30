@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "vidstack": "^1.11.21"
+  },
+  "scripts": {
+    "build": "bun bun.config.js"
+  }
+}
